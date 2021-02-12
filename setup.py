@@ -35,9 +35,9 @@ NAME = "python-pptx"
 VERSION = version
 DESCRIPTION = "Generate and manipulate Open XML PowerPoint (.pptx) files"
 KEYWORDS = "powerpoint ppt pptx office open xml"
-AUTHOR = "Steve Canny"
+AUTHOR = "Astha Agarwal"
 AUTHOR_EMAIL = "python-pptx@googlegroups.com"
-URL = "http://github.com/scanny/python-pptx"
+URL = "http://github.com/asthaa29/python-pptx"
 LICENSE = license
 PACKAGES = find_packages(exclude=["tests", "tests.*"])
 PACKAGE_DATA = {"pptx": ["templates/*"]}
